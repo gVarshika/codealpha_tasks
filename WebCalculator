@@ -1,11 +1,1 @@
-PROJECT 1: WEB CALCULATOR Web Calculator Project Overview: This is a simple, responsive calculator built with HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The design focuses on a clean, easy-to-use interface that works well on both desktop and mobile devices.
 
-Features: Real-time input display as you click buttons Supports addition, subtraction, multiplication, and division Clear (C) and backspace (⌫) buttons for easy corrections Error handling to prevent invalid calculations Responsive layout using CSS Grid for a neat appearance on any screen size Simple and intuitive user interface
-
-Technologies: HTML5 for the structure CSS3 for styling and layout JavaScript for logic and interactivity
-
-What I Learned: Working on this project helped me get comfortable with: Creating semantic HTML layouts Using CSS Grid to build responsive interfaces Handling user input and events in JavaScript
-
-Managing errors gracefully in JavaScript
-
-Combining all three technologies to build a working web app from scratch
