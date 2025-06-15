@@ -1,0 +1,9 @@
+PROJECT-2 ImageGallery
+
+This project is an image gallery made using HTML, CSS, and Lightbox. When someone clicks on a picture, it opens in a bigger view with a black background (popup style), and they can slide through the images easily.
+
+Tools Used: HTML – to add the images and build the structure of the page CSS – to make the gallery look nice and adjust the layout JavaScript (Lightbox) – to open the images in a popup with navigation
+
+How it works: All images are shown in a grid layout. When a user clicks on any image: It opens in a large view (using Lightbox). They can click arrows or swipe to see the next or previous images. A small caption is shown under the image.
+
+features: Responsive design (works on mobile and desktop) Popup view for images Easy to use and clean look Captions and arrows for image navigation
